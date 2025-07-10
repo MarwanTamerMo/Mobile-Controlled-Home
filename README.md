@@ -20,9 +20,8 @@ A mobile‑controlled embedded home automation system built around an AVR ATmega
 10. [FAQ](#faq)
 11. [Roadmap](#roadmap)
 12. [Contributing](#contributing)
-13. [License](#license)
-14. [Acknowledgments](#acknowledgments)
-15. [Contact](#contact)
+13. [Acknowledgments](#acknowledgments)
+14. [Contact](#contact)
 
 ---
 
