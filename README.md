@@ -202,4 +202,4 @@ Before building, you can customize:
 
 ## Contact
 
-Marwan Tamer – [Linkedin](https://www.linkedin.com/in/marwan-tamer-abdelmoneim/) – [marwan-tamer@ieee-zsb.org](mailto:marwan-tamer@ieee-zsb.org)
+Marwan Abdelmoneim – [Linkedin](https://www.linkedin.com/in/marwan-tamer-abdelmoneim/) – [marwan-tamer@ieee-zsb.org](mailto:marwan-tamer@ieee-zsb.org)
