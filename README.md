@@ -2,7 +2,7 @@
 
 A mobile‑controlled embedded home automation system built around an AVR ATmega32 microcontroller. Users can open a safety door, toggle lights, and trigger an emergency shutdown via Bluetooth commands—complete with real‑time feedback on an LCD and audible alerts.
 
-> I created this repository to showcase my IMT AVR Diploma graduating project. The project uses an AVR ATmega32 microcontroller interfaced with a variety of electronics and sensors to create a mobile controlled embedded home system. :contentReference[oaicite:0]{index=0}
+> I created this repository to showcase my IMT AVR Diploma graduating project. The project uses an AVR ATmega32 microcontroller interfaced with a variety of electronics and sensors to create a mobile controlled embedded home system.
 
 ---
 
