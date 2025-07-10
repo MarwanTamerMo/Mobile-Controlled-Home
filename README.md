@@ -193,7 +193,8 @@ Before building, you can customize:
 ---
 
 ## Acknowledgments
-
+* Eng.Ahmed Abo El-Nour (IMT School Embbedded Systems Instructor and Senior Engineer at Valeo)
+* IMT School (Coretech Company)
 * AVR‑GCC & AVR‑Libc communities
 * HC‑05 module documentation
 * LCD1602 tutorials and examples
